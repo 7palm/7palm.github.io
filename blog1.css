@@ -1,0 +1,32 @@
+#contents {
+	font-family:vernada;
+	text-align:center;
+	margin-top:100px;
+	
+}
+
+#contents a{
+	font-size:10px;
+	
+}
+#contents img{
+	margin-top:15px;
+	}
+
+#inside{
+	height:1075px;
+	padding:10px;
+	width:400px;
+	margin:auto;
+	background-color:white;
+	/*box-shadow:0 0 3px rgba(0,0,0,0.5);*/
+	}
+#container{
+height:1275px;
+	padding:10px;
+	width:600px;
+	margin:auto;
+	background-color:white;
+	box-shadow:0 0 3px rgba(0,0,0,0.5);
+	
+	}

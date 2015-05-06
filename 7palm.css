@@ -1,0 +1,53 @@
+/*7palm.css*/
+
+#container{
+height:875px;
+	padding:10px;
+	width:600px;
+	margin:auto;
+	background-color:white;
+	box-shadow:0 0 3px rgba(0,0,0,0.5);
+	
+	}
+
+/*make image at the center position*/
+#header h1{
+	text-align:center;	
+}
+
+/*under line
+center*/
+#menu {
+	border-bottom:1px solid #E7E8E2;
+		text-align:center;
+
+}
+
+/*font
+padding 
+without underline*/
+#menu a{
+	font-family:vernada;
+	padding:10px;
+	text-decoration:none;
+	font-weight:bold;
+		color:#000000;
+
+}
+
+#contents div{
+	text-align:center;
+	padding:200px;
+}
+
+#main {
+	border-bottom:1px solid #E7E8E2
+	}
+
+/*font,fontsize.position center*/
+#footer{
+	font-family:vernada;
+	font-size:10px;
+	color:#A5A5A5;
+	text-align:center;
+	}
