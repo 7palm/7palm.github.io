@@ -239,6 +239,21 @@ or
 
 public String substring(int beginIndex, int endIndex)
 
+((ADT))
+
+abstract data type
+Dies Datastruktur hat zwar Methode, aber die sind nicht genau definiert.
+Deswegen nennt man abstrakt data Struktur.
+
+((Comparable))
+
+Comparable interface implementiert die Klasse vom Objekt, das sotiert werden muss.
+
+gutes Link: http://education.yachinco.net/tips/java/03/2.html
+
+
+
+
 
 
 
